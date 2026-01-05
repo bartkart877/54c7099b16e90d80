@@ -1,0 +1,5 @@
+Player URL:
+https://bartkart877.github.io/player/?list=https://raw.githubusercontent.com/bartkart877/54c7099b16e90d80/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/bartkart877/54c7099b16e90d80/refs/heads/master/github_master.m3u8
